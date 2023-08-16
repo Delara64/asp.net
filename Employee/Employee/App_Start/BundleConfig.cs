@@ -19,11 +19,30 @@ namespace Employee
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
-            bundles.Add(new Bundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.js"));
+            bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
+                   "~/Scripts/bootstrap.js",
+                   "~/Scripts/bootstrap-multiselect.js",
+                   "~/Scripts/moment.min.js",
+                   "~/Scripts/bootstrap-datetimepicker.min.js",
+
+                   "~/Scripts/respond.js"
+                   ));
+            bundles.Add(new ScriptBundle("~/bundles/jsGrid").Include(
+                      "~/Scripts/jsGrid/jsgrid.js",
+                      "~/Scripts/jquery-ui.min.js",
+                      "~/Scripts/AlertJs.js"
+                     ));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/bootstrap.min.css",
+                      "~/Content/bootstrap-datetimepicker.min.css",
+                      "~/Content/bootstrap-multiselect.css",
+                      "~/Content/font-awesome.min.css",
+                      "~/Content/jsgrid-theme.css",
+                      "~/Content/jsgrid.css",
+                      "~/Content/JsGridCustomization.css",
+                      "~/Content/jquery-ui.min.css",
                       "~/Content/site.css"));
         }
     }

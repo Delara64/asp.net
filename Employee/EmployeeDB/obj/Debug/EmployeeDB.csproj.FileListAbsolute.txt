@@ -1,10 +1,2 @@
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\bin\Debug\EmployeeDB.dll.config
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\bin\Debug\EmployeeDB.dll
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\bin\Debug\EmployeeDB.pdb
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\bin\Debug\EntityFramework.dll
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\bin\Debug\EntityFramework.xml
 C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\obj\Debug\EmployeeDB.csproj.AssemblyReference.cache
 C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\obj\Debug\EmployeeDB.csproj.CoreCompileInputs.cache
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\obj\Debug\EmployeeDB.csproj.CopyComplete
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\obj\Debug\EmployeeDB.dll
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\EmployeeDB\obj\Debug\EmployeeDB.pdb

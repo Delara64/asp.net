@@ -70,7 +70,9 @@
       <DependentUpon>ModelEmployee.edmx</DependentUpon>
     </Compile>
     <Compile Include="Model\Employee.cs" />
+    <Compile Include="Model\Managers.cs" />
     <Compile Include="Model\ModelMapping.cs" />
+    <Compile Include="Model\SelectLists.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vaccation.cs">
       <DependentUpon>ModelEmployee.tt</DependentUpon>

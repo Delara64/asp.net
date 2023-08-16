@@ -1,0 +1,2 @@
+C:\Users\delar\OneDrive\Desktop\asp.net\WebAppEmp\WebAppEmp.Tests\obj\Debug\WebAppEmp.Tests.csproj.AssemblyReference.cache
+C:\Users\delar\OneDrive\Desktop\asp.net\WebAppEmp\WebAppEmp.Tests\obj\Debug\WebAppEmp.Tests.csproj.CoreCompileInputs.cache

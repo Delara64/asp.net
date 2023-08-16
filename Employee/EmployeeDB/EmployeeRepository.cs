@@ -1,4 +1,5 @@
 ﻿using EmployeeDB.Interface;
+using EmployeeDB.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace EmployeeDB
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-        private EmployeeContext _Ctx;
+        EmployeeContext _Ctx;
 
         public EmployeeRepository(EmployeeContext Context)
         {
@@ -24,7 +25,10 @@ namespace EmployeeDB
         {
             return _Ctx.Context.Employees;
         }
-
+        public bool AddEmployee(string fName, string lName, string email, string occupation, int departmnet)
+        {
+            return true;
+        }
         //End Method development
 
         public void Dispose()
@@ -32,5 +36,11 @@ namespace EmployeeDB
             if (_Ctx != null)
                 _Ctx.Dispose();
         }
+
+        public bool IsEmployeeExist(string fName, string lName)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
+
