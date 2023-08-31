@@ -1,2 +1,0 @@
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\Employee.Tests\obj\Debug\Employee.Tests.csproj.AssemblyReference.cache
-C:\Users\delar\OneDrive\Desktop\asp.net\Employee\Employee.Tests\obj\Debug\Employee.Tests.csproj.CoreCompileInputs.cache
