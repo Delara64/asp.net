@@ -15,7 +15,7 @@ namespace BulkyWeb.Controllers
 
         public IActionResult Index()
         {
-            return View("Privacy");
+            return View();
         }
 
         public IActionResult Privacy()
