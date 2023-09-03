@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdmohwSwmQZkNBQ4Qh7xcVzytfquGSxZr1nXFd1maU+sXNLR/6AXh3ljfJe0YpjI9e1FF6+VgDu2aXhKVDM+Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\delar\\OneDrive\\Desktop\\asp.net\\DI_Service_Lifetime\\DI_Service_Lifetime\\DI_Service_Lifetime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\delar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\delar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\delar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\delar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
